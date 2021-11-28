@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "azure-storage":"*",
+    "body-parser":"*",
+    "cors":"*",
+    "mssql":"*",
+    "tedious":"*"
+  }
+}
